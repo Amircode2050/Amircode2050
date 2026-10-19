@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 <br>👯 I work on AI applications in complex adaptive systems. <br>🌱 I’m currently learning ML.<br>💬 Fun fact: The "Hello, World!" program first appeared in the 1978 book The C Programming Language by Brian Kernighan and Dennis Ritchie.<br>⚡ "There are only two kinds of people in the world: those who can extrapolate from incomplete data…"
+🔭 <br>👯 I work on AI applications in complex adaptive systems. <br>🌱 <br>💬 Fun fact: The "Hello, World!" program first appeared in the 1978 book The C Programming Language by Brian Kernighan and Dennis Ritchie.<br>⚡ "There are only two kinds of people in the world: those who can extrapolate from incomplete data…"
 
 
 ## 🌐 Socials:
